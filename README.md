@@ -1,2 +1,10 @@
-# ROS-Robotics-Projects
-ROS Robotics Projects on Russian
+# Титульная страница
+
+### Автор: Лазарев Михаил Олегович
+
+## Книга: ROS Robotics Projects
+
+## Главы 1-2, стр. 8-81
+
+
+
