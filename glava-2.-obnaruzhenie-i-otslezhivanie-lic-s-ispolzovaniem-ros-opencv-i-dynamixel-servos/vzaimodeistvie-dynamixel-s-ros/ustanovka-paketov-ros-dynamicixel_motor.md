@@ -1,4 +1,4 @@
-# Подглава 2.3.1 Установка пакетов ROS dynamicixel\_motor
+# Установка пакетов ROS dynamicixel\_motor
 
 Стек пакетов ROS dynamixel\_motor является зависимостью для проекта трекера лица, поэтому мы можем установить его в ros\_project\_dependencies\_wsROS рабочее пространство.
 

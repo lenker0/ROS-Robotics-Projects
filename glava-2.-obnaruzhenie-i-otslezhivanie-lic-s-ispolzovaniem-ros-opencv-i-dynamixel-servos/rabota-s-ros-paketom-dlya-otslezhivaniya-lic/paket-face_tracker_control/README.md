@@ -1,4 +1,4 @@
-# Подглава 2.5.6Пакет face\_tracker\_control
+# Пакет face\_tracker\_control
 
 Пакет face\_tracker\_control - это пакет управления, используемый для отслеживания лица с помощью сервопривода AX-12A Dynamixel.  
 

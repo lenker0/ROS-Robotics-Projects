@@ -1,4 +1,4 @@
-# Подглава 2.5.6.1 Файл запуска start\_dynamixel
+# Файл запуска start\_dynamixel
 
 Файл запуска start\_dynamixel запускает Dynamixel Control Manager, который может устанавливать соединение с адаптером USB-Dynamixel и сервоприводами Dynamixel. Вот определение этого файла запуска:
 

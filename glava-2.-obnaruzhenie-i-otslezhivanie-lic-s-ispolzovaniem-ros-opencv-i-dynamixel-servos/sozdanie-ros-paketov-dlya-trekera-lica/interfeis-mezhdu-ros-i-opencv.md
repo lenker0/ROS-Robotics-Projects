@@ -1,4 +1,4 @@
-# Подглава 2.4.1 Интерфейс между ROS и OpenCV
+# Интерфейс между ROS и OpenCV
 
 **Open Source Computer Vision** \(OpenCV\) - это библиотека, в которой есть API для выполнения приложений компьютерного зрения. Проект был начат в Intel Russia, а позже его поддержали Willow Garage и Itseez. В 2016 году Itseez была приобретена Intel.
 
